@@ -169,7 +169,7 @@ class App extends Component {
     render(){
         
         const {ImgUrl,Facebox,celebArr,celebbox,Route,isSignedIn,Show_celebs,user}=this.state;
-        document.body.style.zoom = "75%";
+        document.body.style.zoom = "80%";
         return (
             <div className="App">
                 <ParticlesInit /> 
