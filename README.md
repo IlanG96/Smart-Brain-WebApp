@@ -10,7 +10,7 @@ plus the user can check his profile stats and see his special profile image he r
 
 ### Join the website test the face detection and find your celebrity twin!
 
-**_DEMO:_**
+## DEMO:
 #### Login Page
 <img src="./public/login.gif">
 
