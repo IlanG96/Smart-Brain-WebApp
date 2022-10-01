@@ -11,9 +11,16 @@ plus the user can check his profile stats and see his special profile image he r
 ### Join the website test the face detection and find your celebrity twin!
 
 **_DEMO:_**
+#### Login Page
+<img src="./public/login.gif">
 
-<!-- <img src="https://user-images.githubusercontent.com/74299935/193406899-706fad07-671a-4fa2-a47c-30ba6b94119b.png" width="80%">
- -->
+#### Registration Page
+![image](https://user-images.githubusercontent.com/74299935/193407136-c192445a-17e0-461a-be9f-c62e86bad38c.png)
+
+
+#### Main Page
+<img src="./public/celebDemo.gif">
+
 #### Profile page
 ![image](https://user-images.githubusercontent.com/74299935/193406899-706fad07-671a-4fa2-a47c-30ba6b94119b.png)
 
