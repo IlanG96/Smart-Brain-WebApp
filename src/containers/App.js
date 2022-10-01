@@ -169,8 +169,7 @@ class App extends Component {
     render(){
         
         const {ImgUrl,Facebox,celebArr,celebbox,Route,isSignedIn,Show_celebs,user}=this.state;
-        // let scaleAmount = 1 - 1
-        // document.body.style.transform = `scale(${scaleAmount})`
+        document.body.style.zoom = "75%";
         return (
             <div className="App">
                 <ParticlesInit /> 
