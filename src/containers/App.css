@@ -2,6 +2,10 @@
     text-align: center;
 }
 
+div {
+    zoom: 200%
+    }
+
 .center{
     display: flex;
     justify-content: center;
