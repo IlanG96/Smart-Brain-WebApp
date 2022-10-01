@@ -3,7 +3,7 @@ import React from "react";
 const Rank = ({name,entries}) =>{
     return(
         <div>
-            <div className="white f3">
+             <div className="white f3">
                 {`${name}, The number of times you used our services is ...`}
             </div>
             <div className="white f1">
