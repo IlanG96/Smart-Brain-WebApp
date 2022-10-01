@@ -9,6 +9,7 @@ Users can enter a image url and use 2 of the available functions:
 plus the user can check his profile stats and see his special profile image he received!
 
 ### Join the website test the face detection and find your celebrity twin!
+### https://smartb-web-app.herokuapp.com/
 
 ## DEMO:
 #### Login Page
